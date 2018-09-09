@@ -1,0 +1,7 @@
+C:\Users\elev\Documents\GitHub\Prog2 - Gjorda Utmaningar\Apartment_Prog_2\Apartment_Prog_2\bin\Debug\Apartment_Prog_2.exe.config
+C:\Users\elev\Documents\GitHub\Prog2 - Gjorda Utmaningar\Apartment_Prog_2\Apartment_Prog_2\bin\Debug\Apartment_Prog_2.exe
+C:\Users\elev\Documents\GitHub\Prog2 - Gjorda Utmaningar\Apartment_Prog_2\Apartment_Prog_2\bin\Debug\Apartment_Prog_2.pdb
+C:\Users\elev\Documents\GitHub\Prog2 - Gjorda Utmaningar\Apartment_Prog_2\Apartment_Prog_2\obj\Debug\Apartment_Prog_2.csprojResolveAssemblyReference.cache
+C:\Users\elev\Documents\GitHub\Prog2 - Gjorda Utmaningar\Apartment_Prog_2\Apartment_Prog_2\obj\Debug\Apartment_Prog_2.csproj.CoreCompileInputs.cache
+C:\Users\elev\Documents\GitHub\Prog2 - Gjorda Utmaningar\Apartment_Prog_2\Apartment_Prog_2\obj\Debug\Apartment_Prog_2.exe
+C:\Users\elev\Documents\GitHub\Prog2 - Gjorda Utmaningar\Apartment_Prog_2\Apartment_Prog_2\obj\Debug\Apartment_Prog_2.pdb
